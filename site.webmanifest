@@ -1,0 +1,11 @@
+{
+  "name": "Clear Vision Site Services",
+  "short_name": "Clear Vision",
+  "icons": [
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0A0F2C",
+  "background_color": "#0A0F2C",
+  "display": "browser"
+}
