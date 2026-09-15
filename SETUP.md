@@ -43,7 +43,7 @@ Then remove the highlighter: delete this one line from the bottom of `assets/sit
 
 **Also confirm before launch:** every service description, method step, FAQ answer and the service-area town list. I wrote those from how these trades generally work in this climate — they need to match what Clear Vision actually does. In particular:
 
-- Only leave "Licensed & insured" and "certificate of insurance available" up if both are true today.
+- Only leave "Fully insured" and "certificate of insurance available" up if both are true today.
 - The heat tape page says you install **self-regulating** cable and coordinate the electrical with a licensed electrician. If that's not the plan, that page needs changing — it's a specific promise.
 - The solar page says you don't walk on panels, pressure wash them, or apply coatings. Same deal.
 
@@ -54,7 +54,7 @@ Then remove the highlighter: delete this one line from the bottom of `assets/sit
 1. Go to **formspree.io** → sign up free.
 2. Create a new form. Name it "Clear Vision Quotes."
 3. Copy the endpoint — looks like `https://formspree.io/f/abcdwxyz`.
-4. Find `action="https://formspree.io/f/YOUR_FORM_ID"` and replace it. **It appears on all eight public pages** — find-and-replace across the folder.
+4. Find `action="https://formspree.io/f/xbgjnzyq"` and replace it. **It appears on all eight public pages** — find-and-replace across the folder.
 5. In Formspree settings, set the notification email.
 
 Each service page's form includes a hidden `page` field, so your inbox tells you which page the lead came from. That's your free attribution — after a month you'll know whether ice dam or window washing is actually pulling.
